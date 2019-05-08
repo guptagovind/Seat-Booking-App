@@ -1,0 +1,51 @@
+.category-separator{
+  border-bottom: 1px black solid;
+  margin: 35px 5px;
+}
+.seat-row{
+  line-height: 50px;
+}
+
+
+
+.btn{
+  display: flex;
+  justify-content: center;
+  width: 100px;
+  height: 75px;
+  /* border: 1px solid red; */
+  border-radius: 19px;
+  font-size: 18px;
+  font-style: italic;
+  text-align: center;
+  margin: 0 auto;
+  line-height: 30px;
+  background-color: #5050e8;
+  color: #f1e9e9;
+}
+
+
+
+.row-title{
+  font-size: 21px;
+  font-style: italic;
+  font-weight: 700;
+  color: slategrey;
+}
+
+.seat-layout{
+  width: 58%;
+  margin: 0 auto;
+  min-width: 830px;
+}
+
+.btn-text {
+  padding: 5px;
+}
+
+
+
+.dropdown-header-area{
+  display: flex;
+  justify-content: center;
+}

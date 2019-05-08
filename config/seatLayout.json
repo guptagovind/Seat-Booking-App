@@ -1,0 +1,465 @@
+{
+  "normal" :{
+    "A": [{
+      "seatNo" : 1,
+      "price" : 100,
+      "selected": false
+    },{
+      "seatNo" : 2,
+      "price" : 100,
+      "isBooked": false,
+      "selected": false
+    },{
+      "seatNo" : 3,
+      "price" : 100,
+      "isBooked": false,
+      "selected": false
+    },{
+      "seatNo" : 4,
+      "price" : 100,
+      "isBooked": true,
+      "selected": false
+    },{
+      "seatNo" : 5,
+      "price" : 100,
+      "isBooked": false,
+      "selected": false
+    },{
+      "seatNo" : 6,
+      "price" : 100,
+      "isBooked": false,
+      "selected": false
+    },{
+      "seatNo" : 7,
+      "price" : 100,
+      "isBooked": false,
+      "selected": false
+    },{
+      "seatNo" : 8,
+      "price" : 100,
+      "isBooked": false,
+      "selected": false
+    },{
+      "seatNo" : 9,
+      "price" : 100,
+      "isBooked": true,
+      "selected": false
+    },{
+      "seatNo" : 10,
+      "price" : 100,
+      "isBooked": false,
+      "selected": false
+    },{
+      "seatNo" : 11,
+      "price" : 100,
+      "isBooked": false,
+      "selected": false
+    },{
+      "seatNo" : 12,
+      "price" : 100,
+      "isBooked": false,
+      "selected": false
+    },{
+      "seatNo" : 13,
+      "price" : 100,
+      "isBooked": false,
+      "selected": false
+    },{
+      "seatNo" : 14,
+      "price" : 100,
+      "isBooked": true,
+      "selected": false
+    },{
+      "seatNo" : 15,
+      "price" : 100,
+      "isBooked": false,
+      "selected": false
+    }],
+    "B": [{
+      "seatNo" : 1,
+      "price" : 100,
+      "selected": false
+    },{
+      "seatNo" : 2,
+      "price" : 100,
+      "isBooked": false,
+      "selected": false
+    },{
+      "seatNo" : 3,
+      "price" : 100,
+      "isBooked": true,
+      "selected": false
+    },{
+      "seatNo" : 4,
+      "price" : 100,
+      "isBooked": false,
+      "selected": false
+    },{
+      "seatNo" : 5,
+      "price" : 100,
+      "isBooked": false,
+      "selected": false
+    },{
+      "seatNo" : 6,
+      "price" : 100,
+      "isBooked": false,
+      "selected": false
+    },{
+      "seatNo" : 7,
+      "price" : 100,
+      "isBooked": false,
+      "selected": false
+    },{
+      "seatNo" : 8,
+      "price" : 100,
+      "isBooked": false,
+      "selected": false
+    },{
+      "seatNo" : 9,
+      "price" : 100,
+      "isBooked": false,
+      "selected": false
+    },{
+      "seatNo" : 10,
+      "price" : 100,
+      "isBooked": true,
+      "selected": false
+    },{
+      "seatNo" : 11,
+      "price" : 100,
+      "isBooked": true,
+      "selected": false
+    },{
+      "seatNo" : 12,
+      "price" : 100,
+      "isBooked": false,
+      "selected": false
+    },{
+      "seatNo" : 13,
+      "price" : 100,
+      "isBooked": false,
+      "selected": false
+    },{
+      "seatNo" : 14,
+      "isBooked": true,
+      "price" : 100,
+      "selected": false
+    },{
+      "seatNo" : 15,
+      "isBooked": true,
+      "price" : 100,
+      "selected": false
+    }]
+  },
+  "club" :{
+    "C": [{
+      "seatNo" : 1,
+      "price" : 200,
+      "isBooked": true,
+      "selected": false
+    },{
+      "seatNo" : 2,
+      "price" : 200,
+      "isBooked": true,
+      "selected": false
+    },{
+      "seatNo" : 3,
+      "price" : 200,
+      "isBooked": true,
+      "selected": false
+    },{
+      "seatNo" : 4,
+      "price" : 200,
+      "isBooked": false,
+      "selected": false
+    },{
+      "seatNo" : 5,
+      "price" : 200,
+      "isBooked": false,
+      "selected": false
+    },{
+      "seatNo" : 6,
+      "price" : 200,
+      "isBooked": false,
+      "selected": false
+    },{
+      "seatNo" : 7,
+      "price" : 200,
+      "isBooked": false,
+      "selected": false
+    },{
+      "seatNo" : 8,
+      "price" : 200,
+      "isBooked": false,
+      "selected": false
+    },{
+      "seatNo" : 9,
+      "price" : 200,
+      "isBooked": false,
+      "selected": false
+    },{
+      "seatNo" : 10,
+      "price" : 200,
+      "isBooked": false,
+      "selected": false
+    },{
+      "seatNo" : 11,
+      "price" : 200,
+      "isBooked": false,
+      "selected": false
+    },{
+      "seatNo" : 12,
+      "price" : 200,
+      "isBooked": false,
+      "selected": false
+    },{
+      "seatNo" : 13,
+      "price" : 200,
+      "isBooked": false,
+      "selected": false
+    },{
+      "seatNo" : 14,
+      "price" : 200,
+      "isBooked": false,
+      "selected": false
+    },{
+      "seatNo" : 15,
+      "price" : 200,
+      "isBooked": false,
+      "selected": false
+    }],
+    "D": [{
+      "seatNo" : 1,
+      "price" : 200,
+      "isBooked": false,
+      "selected": false
+    },{
+      "seatNo" : 2,
+      "price" : 200,
+      "isBooked": false,
+      "selected": false
+    },{
+      "seatNo" : 3,
+      "price" : 200,
+      "isBooked": false,
+      "selected": false
+    },{
+      "seatNo" : 4,
+      "price" : 200,
+      "isBooked": false,
+      "selected": false
+    },{
+      "seatNo" : 5,
+      "price" : 200,
+      "isBooked": false,
+      "selected": false
+    },{
+      "seatNo" : 6,
+      "price" : 200,
+      "isBooked": true,
+      "selected": false
+    },{
+      "seatNo" : 7,
+      "price" : 200,
+      "isBooked": true,
+      "selected": false
+    },{
+      "seatNo" : 8,
+      "price" : 200,
+      "isBooked": true,
+      "selected": false
+    },{
+      "seatNo" : 9,
+      "price" : 200,
+      "isBooked": true,
+      "selected": false
+    },{
+      "seatNo" : 10,
+      "price" : 200,
+      "isBooked": true,
+      "selected": false
+    },{
+      "seatNo" : 11,
+      "price" : 200,
+      "isBooked": true,
+      "selected": false
+    },{
+      "seatNo" : 12,
+      "price" : 200,
+      "isBooked": true,
+      "selected": false
+    },{
+      "seatNo" : 13,
+      "price" : 200,
+      "isBooked": false,
+      "selected": false
+    },{
+      "seatNo" : 14,
+      "price" : 200,
+      "isBooked": false,
+      "selected": false
+    },{
+      "seatNo" : 15,
+      "price" : 200,
+      "isBooked": false,
+      "selected": false
+    }]
+  },
+  "executive" :{
+    "E": [{
+      "seatNo" : 1,
+      "price" : 300,
+      "isBooked": false,
+      "selected": false
+    },{
+      "seatNo" : 2,
+      "price" : 300,
+      "isBooked": false,
+      "selected": false
+    },{
+      "seatNo" : 3,
+      "price" : 300,
+      "isBooked": false,
+      "selected": false
+    },{
+      "seatNo" : 4,
+      "price" : 300,
+      "isBooked": false,
+      "selected": false
+    },{
+      "seatNo" : 5,
+      "price" : 300,
+      "isBooked": false,
+      "selected": false
+    },{
+      "seatNo" : 6,
+      "price" : 300,
+      "isBooked": false,
+      "selected": false
+    },{
+      "seatNo" : 7,
+      "price" : 300,
+      "isBooked": false,
+      "selected": false
+    },{
+      "seatNo" : 8,
+      "price" : 300,
+      "isBooked": false,
+      "selected": false
+    },{
+      "seatNo" : 9,
+      "price" : 300,
+      "isBooked": false,
+      "selected": false
+    },{
+      "seatNo" : 10,
+      "price" : 300,
+      "isBooked": false,
+      "selected": false
+    },{
+      "seatNo" : 11,
+      "price" : 300,
+      "isBooked": false,
+      "selected": false
+    },{
+      "seatNo" : 12,
+      "price" : 300,
+      "isBooked": true,
+      "selected": false
+    },{
+      "seatNo" : 13,
+      "price" : 300,
+      "isBooked": true,
+      "selected": false
+    },{
+      "seatNo" : 14,
+      "price" : 300,
+      "isBooked": true,
+      "selected": false
+    },{
+      "seatNo" : 15,
+      "price" : 300,
+      "isBooked": true,
+      "selected": false
+    }],
+    "F": [{
+      "seatNo" : 1,
+      "price" : 300,
+      "isBooked": true,
+      "selected": false
+    },{
+      "seatNo" : 2,
+      "price" : 300,
+      "isBooked": false,
+      "selected": false
+    },{
+      "seatNo" : 3,
+      "price" : 300,
+      "isBooked": true,
+      "selected": false
+    },{
+      "seatNo" : 4,
+      "price" : 300,
+      "isBooked": false,
+      "selected": false
+    },{
+      "seatNo" : 5,
+      "price" : 300,
+      "isBooked": true,
+      "selected": false
+    },{
+      "seatNo" : 6,
+      "price" : 300,
+      "isBooked": true,
+      "selected": false
+    },{
+      "seatNo" : 7,
+      "price" : 300,
+      "isBooked": false,
+      "selected": false
+    },{
+      "seatNo" : 8,
+      "price" : 500,
+      "isBooked": false,
+      "expensive": true,
+      "selected": false
+    },{
+      "seatNo" : 9,
+      "price" : 500,
+      "isBooked": false,
+      "expensive": true,
+      "selected": false
+    },{
+      "seatNo" : 10,
+      "price" : 300,
+      "isBooked": false,
+      "selected": false
+    },{
+      "seatNo" : 11,
+      "price" : 300,
+      "isBooked": false,
+      "selected": false
+    },{
+      "seatNo" : 12,
+      "price" : 300,
+      "isBooked": false,
+      "selected": false
+    },{
+      "seatNo" : 13,
+      "price" : 300,
+      "isBooked": false,
+      "selected": false
+    },{
+      "seatNo" : 14,
+      "price" : 300,
+      "isBooked": false,
+      "selected": false
+    },{
+      "seatNo" : 15,
+      "price" : 300,
+      "isBooked": false,
+      "selected": false
+    }]
+  }
+
+}

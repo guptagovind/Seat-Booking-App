@@ -1,0 +1,45 @@
+.seat {
+  width: 35px;
+  height: 50px;
+  border: 1px solid grey;
+  padding: 8px 15px;
+  background-color: #FFFFFF;
+  color: grey;
+  border-radius: 12px;
+  margin: 0 5px;
+}
+
+
+.seat-selected{
+  width: 35px;
+  height: 50px;
+  border: 1px solid grey;
+  padding: 8px 15px;
+  background-color: grey;
+  color: #FFFFFF;
+  border-radius: 12px;
+  margin: 0 5px;
+}
+
+.seat-booked{
+  width: 35px;
+  height: 50px;
+  border: 1px solid grey;
+  padding: 8px 15px;
+  background-color: red;
+  color: #FFFFFF;
+  border-radius: 12px;
+  margin: 0 5px;
+  opacity: 0.5;
+}
+.seat-expensive{
+  width: 35px;
+  height: 50px;
+  border: 1px solid grey;
+  padding: 8px 15px;
+  background-color: green;
+  color: #FFFFFF;
+  border-radius: 12px;
+  margin: 0 5px;
+  opacity: 0.5;
+}

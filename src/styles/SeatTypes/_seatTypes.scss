@@ -1,0 +1,37 @@
+.avail-seat {
+  @extend .seat;
+  width: 15px;
+  height: 20px;
+}
+
+.booked-seat{
+  @extend .seat-booked;
+  width: 15px;
+  height: 20px;
+}
+
+.expensive-seat{
+  @extend .seat-expensive;
+  width: 15px;
+  height: 20px;
+}
+
+.selected-seat{
+  @extend .seat-selected;
+  width: 15px;
+  height: 20px;
+}
+.seat-type-text{
+  margin: 5px;
+  line-height: 30px;
+  font-style: italic;
+}
+.flex-seat{
+  display: flex;
+  margin: 0 10px;
+}
+
+.seat-type{
+  display: flex;
+  justify-content: center;
+}

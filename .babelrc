@@ -1,0 +1,19 @@
+{
+  "presets": [
+    [
+      "@babel/env",
+      {
+        "useBuiltIns": "usage",
+        "forceAllTransforms": true,
+        "ignoreBrowserslistConfig": false,
+        "modules": false,
+        "debug": true
+      }
+    ],
+    "@babel/react"
+  ],
+  "plugins": [
+    "@babel/plugin-proposal-class-properties",
+    "@babel/plugin-proposal-object-rest-spread"
+  ]
+}

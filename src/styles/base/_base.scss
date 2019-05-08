@@ -1,0 +1,13 @@
+body {
+  font-family: Lato, Helvetica, Arial, sans-serif;
+}
+
+.test-image {
+  @include sprite('search-icon');
+  height: 15px;
+}
+
+.align-row{
+  display: flex;
+  justify-content: space-between;
+}
