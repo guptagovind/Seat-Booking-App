@@ -69,11 +69,13 @@ class SeatSelection extends React.Component{
       <div>
         <div className="dropdown-header-area">
           <DropDown
+            label="Select Number of Seat"
             onChangeHandler={this.onRequiredSeats}
             value={this.state.requiredSeat}
             options={this.state.seatOptions}
           />
           <DropDown
+            label="Select Seat Category"
             onChangeHandler={this.onCategorySelect}
             value={this.state.seatCategory}
             options={this.state.seatCategoryOptions}

@@ -5,7 +5,7 @@ class DropDown extends React.Component{
   render(){
     return (
       <div className="dropdown-area">
-        <label className="label-text">Select Number of Seat</label>
+        <label className="label-text">{this.props.label}</label>
         <select onChange={this.props.onChangeHandler} value={this.props.value}>
           {
             this.props.options.map((option, index) => (
